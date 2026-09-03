@@ -15,7 +15,6 @@
 - 📫 How to reach me **mahfuztamim1907@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/16ahPjjFQ-ZbgUu2awzWcQDKojxpcssb5/view?usp=sharing](https://drive.google.com/file/d/16ahPjjFQ-ZbgUu2awzWcQDKojxpcssb5/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/md-mahfuzul-alam-1841872a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-mahfuzul-alam-1841872a0" height="30" width="40" /></a>
