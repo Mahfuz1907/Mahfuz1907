@@ -54,10 +54,24 @@
 
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahfuz1907&show_icons=true&locale=en&layout=compact" alt="mahfuz1907" /></p>
+<!--- statistics --->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahfuz1907&show_icons=true&locale=en" alt="mahfuz1907" /></p>
+## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfuz1907&" alt="mahfuz1907" /></p>
+### GitHub Contributions:
+
+![Snake Grid](https://github.com/touhidcodes/contribution-snake/blob/output/grid.svg)
+
+### GitHub Statistics:
+
+| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mahfuz1907&theme=swift&hide_border=true&include_all_commits=false&count_private=false" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahfuz1907&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+### Repository Stats & Streak:
+
+| <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=Mahfuz1907&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /></a> | <a><img align="center" src="https://streak-stats.demolab.com/?user=Mahfuz1907" /></a> |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+
+<br/>
 
 
