@@ -46,11 +46,11 @@
 
 ### JavaScript Frameworks & Libraries:
 
-[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react)](https://github.com/Mahfuz1907)
+[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,nextjs)](https://github.com/Mahfuz1907)
 
 ### Deployment Platform:
 
-[![Deployment Platform](https://skillicons.dev/icons?i=netlify,render)](https://github.com/Mahfuz1907)
+[![Deployment Platform](https://skillicons.dev/icons?i=netlify,render,vercel)](https://github.com/Mahfuz1907)
 
 <br/>
 
