@@ -46,7 +46,7 @@
 
 ### JavaScript Frameworks & Libraries:
 
-[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,nextjs)](https://github.com/Mahfuz1907)
+[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,next)](https://github.com/Mahfuz1907)
 
 ### Deployment Platform:
 
