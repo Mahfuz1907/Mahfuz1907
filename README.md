@@ -50,7 +50,7 @@
 
 ### Deployment Platform:
 
-[![Deployment Platform](https://skillicons.dev/icons?i=netlify,render,vercel)](https://github.com/Mahfuz1907)
+[![Deployment Platform](https://skillicons.dev/icons?i=netlify,vercel)](https://github.com/Mahfuz1907)
 
 <br/>
 
