@@ -60,7 +60,7 @@
 
 ### GitHub Contributions:
 
-![Snake Grid](https://github.com/touhidcodes/contribution-snake/blob/output/grid.svg)
+![Snake Grid](https://github.com/Mahfuz1907/contribution-snake/blob/output/grid.svg)
 
 ### GitHub Statistics:
 
